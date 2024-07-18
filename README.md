@@ -1,2 +1,2 @@
 # nuevo-proyecto-cucumber
-Seguimos avanzando - más practica
+Seguimos avanzando - más práctica
